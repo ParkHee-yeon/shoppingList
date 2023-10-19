@@ -1,0 +1,691 @@
+{
+  "product": [
+    {
+      "id": 1001,
+      "name": "새우깡",
+      "price": 1200,
+      "image": "../img/새우깡.jpeg"
+    },
+    {
+      "id": 1002,
+      "name": "매운새우깡",
+      "price": 1200,
+      "image": "../img/매새.jpeg"
+    },
+    {
+      "id": 1003,
+      "name": "먹태깡",
+      "price": 1500,
+      "image": "../img/먹태깡.jpeg"
+    },
+    {
+      "id": 1004,
+      "name": "자갈치",
+      "price": 1100,
+      "image": "../img/자갈치.jpg"
+    },
+    {
+      "id": 1005,
+      "name": "꿀꽈배기",
+      "price": 1250,
+      "image": "../img/꿀꽈배기.jpeg"
+    },
+    {
+      "id": 1006,
+      "name": "썬칩",
+      "price": 1600,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1007,
+      "name": "스윙칩",
+      "price": 1650,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1008,
+      "name": "꼬북칩",
+      "price": 1800,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1009,
+      "name": "포테토칩",
+      "price": 1350,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1010,
+      "name": "프링클스",
+      "price": 3500,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1011,
+      "name": "꽃게랑",
+      "price": 1200,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1012,
+      "name": "콘칩",
+      "price": 1050,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1013,
+      "name": "크래용신짱",
+      "price": 1150,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1014,
+      "name": "죠리퐁",
+      "price": 1250,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1015,
+      "name": "카라멜콘땅콩",
+      "price": 1300,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1016,
+      "name": "버터링",
+      "price": 2300,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1017,
+      "name": "콘쵸코",
+      "price": 1500,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1018,
+      "name": "칸쵸",
+      "price": 1100,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1019,
+      "name": "초코송이",
+      "price": 900,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1020,
+      "name": "홈런볼",
+      "price": 1900,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1021,
+      "name": "천하장사",
+      "price": 1000,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1022,
+      "name": "칙촉",
+      "price": 2100,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1023,
+      "name": "초코하임",
+      "price": 2200,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1024,
+      "name": "쿠크다스",
+      "price": 2200,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1025,
+      "name": "후렌치파이",
+      "price": 2400,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1026,
+      "name": "빈츠",
+      "price": 2500,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1027,
+      "name": "허니버터칩",
+      "price": 1900,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1028,
+      "name": "오뜨",
+      "price": 3000,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1029,
+      "name": "뽀또",
+      "price": 2800,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1030,
+      "name": "촉촉한 초코칩",
+      "price": 3000,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1031,
+      "name": "빅파이",
+      "price": 3800,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1032,
+      "name": "와우껌",
+      "price": 1000,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1033,
+      "name": "쌀과자",
+      "price": 2500,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1034,
+      "name": "원칩",
+      "price": 2600,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1035,
+      "name": "콘칩",
+      "price": 2700,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1036,
+      "name": "감자깡",
+      "price": 2800,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1037,
+      "name": "고구마깡",
+      "price": 2900,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1038,
+      "name": "양파깡",
+      "price": 3000,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1039,
+      "name": "눈을감자",
+      "price": 3100,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1040,
+      "name": "예감",
+      "price": 3200,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1041,
+      "name": "먹태칩",
+      "price": 3300,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1042,
+      "name": "오다리",
+      "price": 3400,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1043,
+      "name": "과자 1043",
+      "price": 3500,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1044,
+      "name": "과자 1044",
+      "price": 3600,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1045,
+      "name": "과자 1045",
+      "price": 3800,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1047,
+      "name": "과자 1047",
+      "price": 3900,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1048,
+      "name": "과자 1048",
+      "price": 4000,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1049,
+      "name": "과자 1049",
+      "price": 4100,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 1050,
+      "name": "과자 1050",
+      "price": 1500,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2001,
+      "name": "새우깡",
+      "price": 1200,
+      "image": "../img/새우깡.jpeg"
+    },
+    {
+      "id": 2002,
+      "name": "매운새우깡",
+      "price": 1200,
+      "image": "../img/매새.jpeg"
+    },
+    {
+      "id": 2003,
+      "name": "먹태깡",
+      "price": 1500,
+      "image": "../img/먹태깡.jpeg"
+    },
+    {
+      "id": 2004,
+      "name": "자갈치",
+      "price": 1100,
+      "image": "../img/자갈치.jpg"
+    },
+    {
+      "id": 2005,
+      "name": "꿀꽈배기",
+      "price": 1250,
+      "image": "../img/꿀꽈배기.jpeg"
+    },
+    {
+      "id": 2006,
+      "name": "썬칩",
+      "price": 1600,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2007,
+      "name": "스윙칩",
+      "price": 1650,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2008,
+      "name": "꼬북칩",
+      "price": 1800,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2009,
+      "name": "포테토칩",
+      "price": 1350,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2010,
+      "name": "프링클스",
+      "price": 3500,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2011,
+      "name": "꽃게랑",
+      "price": 1200,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2012,
+      "name": "콘칩",
+      "price": 1050,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2013,
+      "name": "크래용신짱",
+      "price": 1150,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2014,
+      "name": "죠리퐁",
+      "price": 1250,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2015,
+      "name": "카라멜콘땅콩",
+      "price": 1300,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2016,
+      "name": "버터링",
+      "price": 2300,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2017,
+      "name": "콘쵸코",
+      "price": 1500,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2018,
+      "name": "칸쵸",
+      "price": 1100,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2019,
+      "name": "초코송이",
+      "price": 900,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2020,
+      "name": "홈런볼",
+      "price": 1900,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2021,
+      "name": "천하장사",
+      "price": 1000,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2022,
+      "name": "칙촉",
+      "price": 2100,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2023,
+      "name": "초코하임",
+      "price": 2200,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2024,
+      "name": "쿠크다스",
+      "price": 2200,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2025,
+      "name": "후렌치파이",
+      "price": 2400,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2026,
+      "name": "빈츠",
+      "price": 2500,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2027,
+      "name": "허니버터칩",
+      "price": 1900,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2028,
+      "name": "오뜨",
+      "price": 3000,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2029,
+      "name": "뽀또",
+      "price": 2800,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2030,
+      "name": "촉촉한 초코칩",
+      "price": 3000,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2031,
+      "name": "빅파이",
+      "price": 3800,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2032,
+      "name": "와우껌",
+      "price": 1000,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2033,
+      "name": "쌀과자",
+      "price": 2500,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2034,
+      "name": "원칩",
+      "price": 2600,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2035,
+      "name": "콘칩",
+      "price": 2700,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2036,
+      "name": "감자깡",
+      "price": 2800,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2037,
+      "name": "고구마깡",
+      "price": 2900,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2038,
+      "name": "양파깡",
+      "price": 3000,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2039,
+      "name": "눈을감자",
+      "price": 3100,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2040,
+      "name": "예감",
+      "price": 3200,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2041,
+      "name": "먹태칩",
+      "price": 3300,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2042,
+      "name": "오다리",
+      "price": 3400,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2043,
+      "name": "과자 1043",
+      "price": 3500,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2044,
+      "name": "과자 1044",
+      "price": 3600,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2045,
+      "name": "과자 1045",
+      "price": 3800,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2047,
+      "name": "과자 1047",
+      "price": 3900,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2048,
+      "name": "과자 1048",
+      "price": 4000,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2049,
+      "name": "과자 1049",
+      "price": 4100,
+      "image": "../img/testImg.png"
+    },
+    {
+      "id": 2050,
+      "name": "과자 1050",
+      "price": 1500,
+      "image": "../img/testImg.png"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1012
+    },
+    {
+      "id": 1010
+    },
+    {
+      "id": 1008
+    },
+    {
+      "id": 1001
+    },
+    {
+      "id": 1011
+    },
+    {
+      "id": 1002
+    },
+    {
+      "id": 1013
+    },
+    {
+      "id": 1014
+    },
+    {
+      "id": 1015
+    },
+    {
+      "id": 1016
+    },
+    {
+      "id": 1017
+    },
+    {
+      "id": 1018
+    },
+    {
+      "1004": "",
+      "id": 1019
+    },
+    {
+      "1008": "",
+      "id": 1020
+    },
+    {
+      "1008": "",
+      "id": 1021
+    },
+    {
+      "1008": "",
+      "id": 1022
+    },
+    {
+      "1008": "",
+      "id": 1023
+    },
+    {
+      "1007": "",
+      "id": 1024
+    }
+  ],
+  "recentItem": [
+    {
+      "id": 1008,
+      "name": "꼬북칩",
+      "price": 1800,
+      "image": "../img/testImg.png",
+      "date": 1695703702135
+    },
+    {
+      "id": 1007,
+      "name": "스윙칩",
+      "price": 1650,
+      "image": "../img/testImg.png",
+      "date": 1695703664476
+    },
+    {
+      "id": 1006,
+      "name": "썬칩",
+      "price": 1600,
+      "image": "../img/testImg.png",
+      "date": 1695703249882
+    },
+    {
+      "id": 1011,
+      "name": "꽃게랑",
+      "price": 1200,
+      "image": "../img/testImg.png",
+      "date": 1695703256199
+    },
+    {
+      "id": 1004,
+      "name": "자갈치",
+      "price": 1100,
+      "image": "../img/자갈치.jpg",
+      "date": 1695709107316
+    }
+  ]
+}

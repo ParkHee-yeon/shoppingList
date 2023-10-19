@@ -1,38 +1,170 @@
-.App {
+html {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+img {
+  width: 100%;
+}
+header {
+  padding-top: 20px;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+a {
+  text-decoration: none;
+  color: #000;
+  margin: 0 5px;
+  font-size: 18px;
+}
+#root {
+  position: relative;
+  width: 100%;
+}
+.listBox ul {
+  margin: 0;
+  padding: 0 200px;
+  box-sizing: border-box;
+  list-style: none;
+}
+.listBox ul li {
+  width: 25%;
+  display: inline-block;
+  cursor: pointer;
+}
+.productBox {
+  margin: 10px 5px;
+}
+.productInfo p {
+  margin: 0;
+}
+.productInfo p:nth-child(2) {
+  margin: 5px 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.cartListBox {
+  margin-top: 20px;
+  padding: 0 200px;
+}
+table {
+  border-top: solid 1.5px black;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 14px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+thead {
+  text-align: center;
+  font-weight: bold;
+}
+tbody {
+  text-align: center;
+}
+tfoot td {
+  text-align: right;
+  font-weight: bold;
+  font-size: 17px;
+}
+td {
+  padding: 15px 0px;
+  border-bottom: 1px solid lightgrey;
+}
+
+td img {
+  width: 100px;
+  height: 100px;
+}
+
+.sidePopup {
+  display: inline-block;
+  position: fixed;
+  top: 43px;
+  right: 43px;
+  padding: 20px;
+  background: #eee;
+  text-align: center;
+}
+.sidePopup ul {
+  margin: 0;
+  padding: 0;
+}
+.recentList {
+  list-style: none;
+  padding: 5px;
+  box-sizing: border-box;
+}
+.recentList img {
+  width: 50px;
+  height: 50px;
+}
+.recentList span {
+  display: block;
+}
+
+.popup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.bgBox {
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.alertBox {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  width: 350px;
+  height: 150px;
+  background: #eee;
   display: flex;
-  flex-direction: column;
+  flex-flow: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.alertBox h2 {
+  margin: 0;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.alertBox button {
+  width: 60px;
+  height: 30px;
+  cursor: pointer;
+}
+.alertBox button:nth-child(1) {
+  margin-right: 10px;
+}
+.contentBox {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  width: 400px;
+  height: 400px;
+  background: #fff;
+}
+.contentBox img {
+  width: 200px;
+  height: 200px;
+}
+.contentBox button {
+  width: 100px;
+  height: 30px;
+  margin: 0 auto;
+  text-align: center;
+}
+.contentBox .cartBtn {
+  margin-right: 5px;
 }
